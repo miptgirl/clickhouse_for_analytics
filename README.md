@@ -1,2 +1,2 @@
-# clickhouse_for_analytics
+# ClickHouse + analytics = 💛
 Best practices of using ClickHouse for analytical tasks
